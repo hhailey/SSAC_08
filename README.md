@@ -14,8 +14,9 @@ https://www.w3schools.com/html/html_intro.asp
 
 `{backtick) : 보통 소스코드 넣는 박스 표시할때 사용
 
-**시작태그만 있는 Element : Empty element
-```
 
+```
 <tagname>CONTENTS</tagname>
+
+**시작태그만 있는 Element : Empty element
 ```
