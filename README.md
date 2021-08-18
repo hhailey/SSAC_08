@@ -123,3 +123,23 @@ https://www.tablesgenerator.com/html_tables
 https://www.w3schools.com/html/html_lists.asp
 
 중첩 목록(Nested List) : 여러 수준(레벨)으로 구성된 목록
+
+
+---상단은 텍스트를 구성하는 엘리먼트 중요한거 5가지
+
+
+### HTML Images
+https://www.w3schools.com/html/html_images.asp
+
+alt : alternative
+
+
+### HTML Video
+https://www.w3schools.com/html/html5_video.asp
+
+### HTML Youtube
+https://www.w3schools.com/html/html_youtube.asp
+
+
+--- 여기까지 콘텐츠를 꾸미는 
+
